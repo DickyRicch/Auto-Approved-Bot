@@ -10,18 +10,18 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 
 ```
 ## Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+- [AutoApprove Bot by Mo Tech](https://github.com/DICKYRICCH/Auto-Approved-Bot)
 ```
 
 
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/9582576b315e04a0a02a7.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/9582576b315e04a0a02a7.jpg" alt="DICKYRICCH" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/DICKYRICCH/Auto-Approved-Bot?style=social" />
+<img src="https://img.shields.io/github/forks/DICKYRICCH/Auto-Approved-Bot?style=social" />
 </p>
 
 <p align="center">
